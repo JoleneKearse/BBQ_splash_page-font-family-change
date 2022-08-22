@@ -57,7 +57,7 @@ img {
 body {
     height: 100%;
     min-height: 100vh;
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: clamp(1rem, 0.9063rem + 0.4167vw, 1.125rem);
     font-weight: 400;
     text-align: center;
